@@ -1,1 +1,1 @@
-Microservices for order and product by shabbir
+Microservices Project using order and product service by shabbir
